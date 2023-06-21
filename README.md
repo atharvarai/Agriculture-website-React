@@ -3,13 +3,11 @@ https://agriculture-website-react.vercel.app/
 
  Agriculture website for helping farmers made using React and Tailwind CSS
 
-<img width="960" alt="image" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/8ea4ae83-9f81-44d3-813d-176a188c4054">
+<img width="960" alt="1" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/c40c02e3-d1ce-423d-bcd2-5ff5ee2617e4">
 
+<img width="960" alt="2" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/0aba05a3-20f1-4500-abbb-e32534ed2e7b">
 
-<img width="960" alt="image" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/06a142e8-724e-447f-a919-0fe28adefe03">
+<img width="960" alt="3" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/2ad961cd-122b-4f9e-b321-6cadbe456af5">
 
+<img width="960" alt="4" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/5a1fedf0-64fc-4b5c-a5de-cdf3daf4029e">
 
-<img width="960" alt="image" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/617b4568-aa2c-4b08-aad7-9114471da9a7">
-
-
-<img width="960" alt="image" src="https://github.com/atharvarai/Agriculture-website-React/assets/86284486/1e5cba76-2349-486e-9007-23b4a63ad072">
